@@ -1,0 +1,4 @@
+#ifndef PROBABILITY_H
+#define PROBABILITY_H
+
+#endif // PROBABILITY_H
